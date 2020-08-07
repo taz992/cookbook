@@ -1,0 +1,33 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/recipe_layout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    >
+
+    <ImageView
+        android:id="@+id/recipeImage"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_margin="10dp"
+        android:scaleType="centerCrop"/>
+
+    <TextView
+        android:id="@+id/recipeTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_toRightOf="@id/recipeImage"
+        android:text="Recipe Title"
+        android:textSize="24sp"/>
+
+    <TextView
+        android:id="@+id/recipeCaption"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/recipeTitle"
+        android:layout_marginTop="10dp"
+        android:layout_toRightOf="@id/recipeImage"
+        android:text="Some sentenses about the recipe."/>
+
+</RelativeLayout>
