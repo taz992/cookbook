@@ -1,0 +1,165 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/tailai/Documents/GitHub/cookbook/app/src/main/AndroidManifest.xml:2:1-42:12
+	package
+		ADDED from /Users/tailai/Documents/GitHub/cookbook/app/src/main/AndroidManifest.xml:3:5-36
+		INJECTED from /Users/tailai/Documents/GitHub/cookbook/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tailai/Documents/GitHub/cookbook/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/tailai/Documents/GitHub/cookbook/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tailai/Documents/GitHub/cookbook/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/tailai/Documents/GitHub/cookbook/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/tailai/Documents/GitHub/cookbook/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tailai/Documents/GitHub/cookbook/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/tailai/Documents/GitHub/cookbook/app/src/main/AndroidManifest.xml:5:5-37:19
+MERGED from [com.android.support:design:26.0.0-alpha1] /Users/tailai/.android/build-cache/d7d6921de8dc15467d57291f802617baed2bf61d/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] /Users/tailai/.android/build-cache/dfd508f7f1a3b8a8caba41e65a22b0342b0d3221/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] /Users/tailai/.android/build-cache/3116868859ac51b033d96d882a5636052d85dcfc/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/tailai/.android/build-cache/e45cc76c4520236416e2fd6c2b1bd6ce8d5e868f/output/AndroidManifest.xml:9:5-20
+MERGED from [com.github.apl-devs:appintro:v4.2.2] /Users/tailai/.android/build-cache/8196e49b7807457fb2635ec4020df35ce922ae07/output/AndroidManifest.xml:11:5-47
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/tailai/.android/build-cache/c0f86d8fae459870306b3c4bec5fe9e243bf0f46/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/tailai/.android/build-cache/614553ffd13965801b0776f6452cfd5ca61e0904/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/tailai/.android/build-cache/966a016f6f7f44fd742635b3a2b8b42a0f83e7d6/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/tailai/.android/build-cache/2dfd2d1e7a1ca05d0abc65a2fd4cc2f0ddd4a40c/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/tailai/.android/build-cache/595df9e21fb3a84e9ec9ffcb5f2cea05c953c966/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/tailai/.android/build-cache/79b2229d307341a8472c647ee153409f8bda7a68/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/tailai/.android/build-cache/64635f2b3c868c28229081758802eb9befc29afc/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/tailai/.android/build-cache/f018ad0ba4136048e7fc873744f2013996045333/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/tailai/.android/build-cache/2bf9e0a45ab1e154264749e311e3db1ce0752d59/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/tailai/Documents/GitHub/cookbook/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /Users/tailai/Documents/GitHub/cookbook/app/src/main/AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from /Users/tailai/Documents/GitHub/cookbook/app/src/main/AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from /Users/tailai/Documents/GitHub/cookbook/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /Users/tailai/Documents/GitHub/cookbook/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /Users/tailai/Documents/GitHub/cookbook/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.feasymax.cookbook.view.MainActivity
+ADDED from /Users/tailai/Documents/GitHub/cookbook/app/src/main/AndroidManifest.xml:12:9-19:20
+	android:screenOrientation
+		ADDED from /Users/tailai/Documents/GitHub/cookbook/app/src/main/AndroidManifest.xml:14:13-49
+	android:theme
+		ADDED from /Users/tailai/Documents/GitHub/cookbook/app/src/main/AndroidManifest.xml:13:13-56
+	android:name
+		ADDED from /Users/tailai/Documents/GitHub/cookbook/app/src/main/AndroidManifest.xml:12:19-73
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/tailai/Documents/GitHub/cookbook/app/src/main/AndroidManifest.xml:15:13-18:29
+action#android.intent.action.MAIN
+ADDED from /Users/tailai/Documents/GitHub/cookbook/app/src/main/AndroidManifest.xml:16:17-68
+	android:name
+		ADDED from /Users/tailai/Documents/GitHub/cookbook/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/tailai/Documents/GitHub/cookbook/app/src/main/AndroidManifest.xml:17:17-76
+	android:name
+		ADDED from /Users/tailai/Documents/GitHub/cookbook/app/src/main/AndroidManifest.xml:17:27-74
+activity#com.feasymax.cookbook.view.RecipesActivity
+ADDED from /Users/tailai/Documents/GitHub/cookbook/app/src/main/AndroidManifest.xml:20:9-22:20
+	android:screenOrientation
+		ADDED from /Users/tailai/Documents/GitHub/cookbook/app/src/main/AndroidManifest.xml:21:57-93
+	android:theme
+		ADDED from /Users/tailai/Documents/GitHub/cookbook/app/src/main/AndroidManifest.xml:21:13-56
+	android:name
+		ADDED from /Users/tailai/Documents/GitHub/cookbook/app/src/main/AndroidManifest.xml:20:19-76
+activity#com.feasymax.cookbook.view.DiscoverActivity
+ADDED from /Users/tailai/Documents/GitHub/cookbook/app/src/main/AndroidManifest.xml:23:9-25:20
+	android:screenOrientation
+		ADDED from /Users/tailai/Documents/GitHub/cookbook/app/src/main/AndroidManifest.xml:24:57-93
+	android:theme
+		ADDED from /Users/tailai/Documents/GitHub/cookbook/app/src/main/AndroidManifest.xml:24:13-56
+	android:name
+		ADDED from /Users/tailai/Documents/GitHub/cookbook/app/src/main/AndroidManifest.xml:23:19-77
+activity#com.feasymax.cookbook.view.ToolsActivity
+ADDED from /Users/tailai/Documents/GitHub/cookbook/app/src/main/AndroidManifest.xml:26:9-28:20
+	android:screenOrientation
+		ADDED from /Users/tailai/Documents/GitHub/cookbook/app/src/main/AndroidManifest.xml:27:57-93
+	android:theme
+		ADDED from /Users/tailai/Documents/GitHub/cookbook/app/src/main/AndroidManifest.xml:27:13-56
+	android:name
+		ADDED from /Users/tailai/Documents/GitHub/cookbook/app/src/main/AndroidManifest.xml:26:19-74
+activity#com.feasymax.cookbook.view.AccountActivity
+ADDED from /Users/tailai/Documents/GitHub/cookbook/app/src/main/AndroidManifest.xml:29:9-31:20
+	android:screenOrientation
+		ADDED from /Users/tailai/Documents/GitHub/cookbook/app/src/main/AndroidManifest.xml:30:57-93
+	android:theme
+		ADDED from /Users/tailai/Documents/GitHub/cookbook/app/src/main/AndroidManifest.xml:30:13-56
+	android:name
+		ADDED from /Users/tailai/Documents/GitHub/cookbook/app/src/main/AndroidManifest.xml:29:19-76
+activity#com.feasymax.cookbook.view.RegisterActivity
+ADDED from /Users/tailai/Documents/GitHub/cookbook/app/src/main/AndroidManifest.xml:32:9-34:20
+	android:screenOrientation
+		ADDED from /Users/tailai/Documents/GitHub/cookbook/app/src/main/AndroidManifest.xml:33:57-93
+	android:theme
+		ADDED from /Users/tailai/Documents/GitHub/cookbook/app/src/main/AndroidManifest.xml:33:13-56
+	android:name
+		ADDED from /Users/tailai/Documents/GitHub/cookbook/app/src/main/AndroidManifest.xml:32:19-77
+activity#com.feasymax.cookbook.view.IntroActivity
+ADDED from /Users/tailai/Documents/GitHub/cookbook/app/src/main/AndroidManifest.xml:35:9-36:101
+	android:screenOrientation
+		ADDED from /Users/tailai/Documents/GitHub/cookbook/app/src/main/AndroidManifest.xml:36:63-99
+	android:theme
+		ADDED from /Users/tailai/Documents/GitHub/cookbook/app/src/main/AndroidManifest.xml:36:19-62
+	android:name
+		ADDED from /Users/tailai/Documents/GitHub/cookbook/app/src/main/AndroidManifest.xml:35:19-74
+uses-permission#android.permission.INTERNET
+ADDED from /Users/tailai/Documents/GitHub/cookbook/app/src/main/AndroidManifest.xml:38:5-67
+	android:name
+		ADDED from /Users/tailai/Documents/GitHub/cookbook/app/src/main/AndroidManifest.xml:38:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/tailai/Documents/GitHub/cookbook/app/src/main/AndroidManifest.xml:39:5-80
+	android:name
+		ADDED from /Users/tailai/Documents/GitHub/cookbook/app/src/main/AndroidManifest.xml:39:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/tailai/Documents/GitHub/cookbook/app/src/main/AndroidManifest.xml:40:5-81
+	android:name
+		ADDED from /Users/tailai/Documents/GitHub/cookbook/app/src/main/AndroidManifest.xml:40:22-78
+uses-sdk
+INJECTED from /Users/tailai/Documents/GitHub/cookbook/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:26.0.0-alpha1] /Users/tailai/.android/build-cache/d7d6921de8dc15467d57291f802617baed2bf61d/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /Users/tailai/.android/build-cache/362bddd37a4b1f6f7a086f42e164cf2122a3ae21/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] /Users/tailai/.android/build-cache/dfd508f7f1a3b8a8caba41e65a22b0342b0d3221/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] /Users/tailai/.android/build-cache/3116868859ac51b033d96d882a5636052d85dcfc/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/tailai/.android/build-cache/e45cc76c4520236416e2fd6c2b1bd6ce8d5e868f/output/AndroidManifest.xml:5:5-7:41
+MERGED from [cookbook:tagview-library:unspecified] /Users/tailai/Documents/GitHub/cookbook/android-tagview-master/library/build/intermediates/bundles/default/AndroidManifest.xml:22:5-24:41
+MERGED from [com.github.apl-devs:appintro:v4.2.2] /Users/tailai/.android/build-cache/8196e49b7807457fb2635ec4020df35ce922ae07/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/tailai/.android/build-cache/c0f86d8fae459870306b3c4bec5fe9e243bf0f46/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/tailai/.android/build-cache/614553ffd13965801b0776f6452cfd5ca61e0904/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/tailai/.android/build-cache/966a016f6f7f44fd742635b3a2b8b42a0f83e7d6/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/tailai/.android/build-cache/2dfd2d1e7a1ca05d0abc65a2fd4cc2f0ddd4a40c/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/tailai/.android/build-cache/595df9e21fb3a84e9ec9ffcb5f2cea05c953c966/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/tailai/.android/build-cache/79b2229d307341a8472c647ee153409f8bda7a68/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/tailai/.android/build-cache/64635f2b3c868c28229081758802eb9befc29afc/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/tailai/.android/build-cache/f018ad0ba4136048e7fc873744f2013996045333/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/tailai/.android/build-cache/2bf9e0a45ab1e154264749e311e3db1ce0752d59/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0-alpha1] /Users/tailai/.android/build-cache/d7d6921de8dc15467d57291f802617baed2bf61d/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/tailai/Documents/GitHub/cookbook/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tailai/Documents/GitHub/cookbook/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/tailai/Documents/GitHub/cookbook/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tailai/Documents/GitHub/cookbook/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.0-alpha1] /Users/tailai/.android/build-cache/d7d6921de8dc15467d57291f802617baed2bf61d/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /Users/tailai/.android/build-cache/362bddd37a4b1f6f7a086f42e164cf2122a3ae21/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] /Users/tailai/.android/build-cache/dfd508f7f1a3b8a8caba41e65a22b0342b0d3221/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] /Users/tailai/.android/build-cache/3116868859ac51b033d96d882a5636052d85dcfc/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/tailai/.android/build-cache/c0f86d8fae459870306b3c4bec5fe9e243bf0f46/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/tailai/.android/build-cache/614553ffd13965801b0776f6452cfd5ca61e0904/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/tailai/.android/build-cache/966a016f6f7f44fd742635b3a2b8b42a0f83e7d6/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/tailai/.android/build-cache/2dfd2d1e7a1ca05d0abc65a2fd4cc2f0ddd4a40c/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/tailai/.android/build-cache/595df9e21fb3a84e9ec9ffcb5f2cea05c953c966/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/tailai/.android/build-cache/79b2229d307341a8472c647ee153409f8bda7a68/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/tailai/.android/build-cache/64635f2b3c868c28229081758802eb9befc29afc/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/tailai/.android/build-cache/f018ad0ba4136048e7fc873744f2013996045333/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/tailai/.android/build-cache/2bf9e0a45ab1e154264749e311e3db1ce0752d59/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:design:26.0.0-alpha1] /Users/tailai/.android/build-cache/d7d6921de8dc15467d57291f802617baed2bf61d/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:design:26.0.0-alpha1] /Users/tailai/.android/build-cache/d7d6921de8dc15467d57291f802617baed2bf61d/output/AndroidManifest.xml:26:9-47
